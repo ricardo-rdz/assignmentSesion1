@@ -1,0 +1,17 @@
+{
+  "name": "frontend-testcafe-challenge",
+  "version": "1.0.0",
+  "description": "testChallenge",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "resolve-url": "^0.2.1",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Rodriguez",
+  "license": "ISC"
+}
